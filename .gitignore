@@ -1,0 +1,7 @@
+__pycache___
+include 
+Library
+Scripts
+pyenv.cfg
+*.ipynb
+*.csv
